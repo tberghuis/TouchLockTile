@@ -1,0 +1,11 @@
+Short description
+  Tile shortcut to enable "Touch Lock" mode for WearOS watches
+
+Full description
+  "Touch Lock" mode disables watch from responding to screen touch events. This is useful in situations such as swimming or walking in rain. This app provides a shortcut to inbuilt watch feature as a Tile.
+
+  * Note: Watch must support Touch Lock mode; this app does nothing if the Touch Lock feature is not supported
+  ** Tested on Mobvoi Ticwatch Pro 2020
+
+
+

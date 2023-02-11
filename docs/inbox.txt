@@ -1,0 +1,31 @@
+
+...
+play store release
+github release
+reddit announcement
+
+credit author of touchlockhelper
+
+cull inbox
+clean every line of code
+
+need a list of watches that has wet_mode
+
+lets just do it wrong and release anyway because it is open source
+put an appeal for info in the github readme and a warning that wet_mode may not be support on your watch on play store page
+
+fresh git repo before release
+
+
+attribute logo copy source or find cc0
+
+README.md
+
+marketing, story about how i use my watch to record voice memos in the surf
+note, watch must support wet_mode
+
+add github url to play store listing
+
+play store link README.md
+
+privacy policy
